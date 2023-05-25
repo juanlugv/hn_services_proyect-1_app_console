@@ -1,0 +1,17 @@
+D:\Programacion\Proyectos\Prueba_consola_c#\ConsoleAppVSCode\bin\Debug\net7.0\ConsoleAppVSCode.exe
+D:\Programacion\Proyectos\Prueba_consola_c#\ConsoleAppVSCode\bin\Debug\net7.0\ConsoleAppVSCode.deps.json
+D:\Programacion\Proyectos\Prueba_consola_c#\ConsoleAppVSCode\bin\Debug\net7.0\ConsoleAppVSCode.runtimeconfig.json
+D:\Programacion\Proyectos\Prueba_consola_c#\ConsoleAppVSCode\bin\Debug\net7.0\ConsoleAppVSCode.dll
+D:\Programacion\Proyectos\Prueba_consola_c#\ConsoleAppVSCode\bin\Debug\net7.0\ConsoleAppVSCode.pdb
+D:\Programacion\Proyectos\Prueba_consola_c#\ConsoleAppVSCode\obj\Debug\net7.0\ConsoleAppVSCode.csproj.AssemblyReference.cache
+D:\Programacion\Proyectos\Prueba_consola_c#\ConsoleAppVSCode\obj\Debug\net7.0\ConsoleAppVSCode.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programacion\Proyectos\Prueba_consola_c#\ConsoleAppVSCode\obj\Debug\net7.0\ConsoleAppVSCode.AssemblyInfoInputs.cache
+D:\Programacion\Proyectos\Prueba_consola_c#\ConsoleAppVSCode\obj\Debug\net7.0\ConsoleAppVSCode.AssemblyInfo.cs
+D:\Programacion\Proyectos\Prueba_consola_c#\ConsoleAppVSCode\obj\Debug\net7.0\ConsoleAppVSCode.csproj.CoreCompileInputs.cache
+D:\Programacion\Proyectos\Prueba_consola_c#\ConsoleAppVSCode\obj\Debug\net7.0\ConsoleAppVSCode.dll
+D:\Programacion\Proyectos\Prueba_consola_c#\ConsoleAppVSCode\obj\Debug\net7.0\refint\ConsoleAppVSCode.dll
+D:\Programacion\Proyectos\Prueba_consola_c#\ConsoleAppVSCode\obj\Debug\net7.0\ConsoleAppVSCode.pdb
+D:\Programacion\Proyectos\Prueba_consola_c#\ConsoleAppVSCode\obj\Debug\net7.0\ConsoleAppVSCode.genruntimeconfig.cache
+D:\Programacion\Proyectos\Prueba_consola_c#\ConsoleAppVSCode\obj\Debug\net7.0\ref\ConsoleAppVSCode.dll
+D:\Programacion\Proyectos\Prueba_consola_c#\ConsoleAppVSCode\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\Programacion\Proyectos\Prueba_consola_c#\ConsoleAppVSCode\obj\Debug\net7.0\ConsoleAppVSCode.csproj.CopyComplete

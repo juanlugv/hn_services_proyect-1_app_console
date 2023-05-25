@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tM7UPimAzPBLqPN1wmCtxU0YOYgDl9avwDjM+Oc8ic0fXHaRO7qQYxUaRN5cZKcJ/IosH/nrWA2tA4rdtnt82A==",
+  "success": true,
+  "projectFilePath": "D:\\Programacion\\Proyectos\\Prueba_consola_c#\\ConsoleAppVSCode\\ConsoleAppVSCode.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JuanLu\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
